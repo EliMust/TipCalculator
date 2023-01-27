@@ -1,6 +1,5 @@
 //  ContentView.swift
 //  Tip calculator
-//  Created by Elina Mustafina on 27.01.2023.
 
 import SwiftUI
 
